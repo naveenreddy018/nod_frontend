@@ -18,5 +18,7 @@ createRoot(document.getElementById('root')).render(
       </ToastProvider>
       </BrowserRouter>
     </Provider>
-  </StrictMode>,
+  </StrictMode>
+
+  
 )
