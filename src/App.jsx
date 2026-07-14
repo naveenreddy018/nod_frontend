@@ -6,7 +6,7 @@ import PrivateRoute from "./router/PrivateRoute"
 import PublicRoute from "./router/PublicRoute"
 import { isAuthenticated } from "./utils/auth"
 
-import FeaturedServices from "./pages/Featuredservices"
+// import FeaturedServices from "./pages/Featuredservices"
 import FeaturedProjects from "./pages/FeatureProjects"
 import Footer from "./pages/Footer"
 import HeroSection from "./pages/HeroSection"
