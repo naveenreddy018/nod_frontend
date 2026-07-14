@@ -1,4 +1,3 @@
-// src/router/RoleSwitch.jsx
 import { Navigate } from "react-router-dom"
 import { getStoredUser } from "../components/dashboard/roleNavConfig"
 
