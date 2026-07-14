@@ -2,7 +2,7 @@ import "../theme.css"
 
 export default function NewHeritage() {
     return (
-        <section className="relative py-24 px-4 md:px-8 bg-elevation-0 overflow-hidden">
+        <section className="relative py-24 px-4 md:px-8  bg-[#f2ece6] overflow-hidden">
             <div className="max-w-6xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-20 items-center">
 
                 {/* IMAGE COLLAGE LEFT */}
