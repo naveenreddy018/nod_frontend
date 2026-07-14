@@ -265,7 +265,7 @@ import { Routes, Route, Navigate } from "react-router-dom"
 
 import PrivateRoute from "./router/PrivateRoute"
 import PublicRoute from "./router/PublicRoute"
-import { isAuthenticated } from "./utils/Auth"
+import { isAuthenticated } from "./utils/auth"
 
 import FeaturedServices from "./pages/Featuredservices"
 import FeaturedProjects from "./pages/FeatureProjects"

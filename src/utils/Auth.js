@@ -10,7 +10,7 @@ export const getCurrentUser = () => {
 // True if there's a stored user with a token
 export const isAuthenticated = () => {
   const user = getCurrentUser()
-  console.log(isAuthenticated,"isAuthenticated1w23")
+  console.log(isAuthenticated, "isAuthenticated1w23")
   return !!(user && user.token)
 }
 
